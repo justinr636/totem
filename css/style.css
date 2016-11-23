@@ -45,11 +45,9 @@ body {
     margin: auto;
 }
 
-.title-totem-text {
-    font-weight: bold;
-    border: 2px solid black;
-    width: 35%;
-    margin-left: 25px;
+.totem-pole-logo {
+    width: 30px;
+    height: 120px;
 }
 
 .vertical-char {
