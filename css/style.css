@@ -6,6 +6,7 @@ html, body {
 body {
     font-family: 'Gibson-SemiBold';
     text-align: center;
+    min-height: 500px;
 }
 
 #viewport { 
@@ -13,36 +14,27 @@ body {
     width: 100%;
     min-width: 980px;
     min-height: 100%;
-    position: absolute;
     top: 0;
     background-image: url("../images/p2.svg");
     background-repeat: repeat;
     background-position: 5px 0;
 }
 
-#content { 
-}
-
 .off-white-bg { background-color: #f9f9f9; }
 
-.flex-row { 
-    display: flex; 
-    justify-content: center;
-    align-items: center;
-}
-.flex-1 { flex: 1; }
-.flex-2 { flex: 2; }
-.flex-3 { flex: 3; }
-.flex-4 { flex: 4; }
-.flex-5 { flex: 5; }
-.flex-10 { flex: 10; }
-
 .title-row {
-    height: 180px;
+    position: absolute;
+    top: 3%;
+    width: 100%;
 }
 
 .title-totem {
     margin: auto;
+}
+
+.totem-pole-logo-wrapper {
+    padding: 20px 0;
+    margin: 30px;
 }
 
 .totem-pole-logo {
@@ -62,14 +54,10 @@ body {
     padding-bottom: 5px;
 }
 
-.main-welcome {
-    max-width: 830px;
-    height: 275px;
-    margin-top: 125px;
-}
-
 .main-row {
-    height: 275px;
+    position: absolute;
+    top: 45%;
+    width: 100%;
 }
 
 .main-button-row { 
@@ -78,7 +66,6 @@ body {
 
 .main-text h1 {
     font-size: 50px;
-    margin-top: 20px;
     margin-bottom: 0;
 }
 
@@ -92,7 +79,6 @@ body {
     border: 2px solid black;
     width: 100%;
     height: 100%;
-    margin-top: 60px;
 }
 
 .main-button-text a {
@@ -130,10 +116,9 @@ body {
 }
 
 .footer-row {
-    height: 115px;
     position: absolute;
     bottom: 0;
-    right: 0;
+    width: 100%;
 }
 
 .twitter-area {
@@ -143,7 +128,6 @@ body {
 .twitter-area-text {
     line-height: 85px;
     text-align: right;
-    margin-right: 10px;
 }
 
 .twitter-area-text p {
