@@ -39,20 +39,20 @@
 @import url("//hello.myfonts.net/count/328c26");
 
   
-@font-face {font-family: 'Gibson-BoldItalic';src: url('../fonts/gibson-webfonts/328C26_0_0.eot');src: url('../fonts/gibson-webfonts/328C26_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/gibson-webfonts/328C26_0_0.woff2') format('woff2'),url('../fonts/gibson-webfonts/328C26_0_0.woff') format('woff'),url('../fonts/gibson-webfonts/328C26_0_0.ttf') format('truetype'),url('../fonts/gibson-webfonts/328C26_0_0.svg#wf') format('svg');}
+@font-face {font-family: 'Gibson-BoldItalic';src: url('/fonts/gibson-webfonts/328C26_0_0.eot');src: url('/fonts/gibson-webfonts/328C26_0_0.eot?#iefix') format('embedded-opentype'),url('/fonts/gibson-webfonts/328C26_0_0.woff2') format('woff2'),url('/fonts/gibson-webfonts/328C26_0_0.woff') format('woff'),url('/fonts/gibson-webfonts/328C26_0_0.ttf') format('truetype'),url('/fonts/gibson-webfonts/328C26_0_0.svg#wf') format('svg');}
  
   
-@font-face {font-family: 'Gibson-SemiboldIt';src: url('../fonts/gibson-webfonts/328C26_1_0.eot');src: url('../fonts/gibson-webfonts/328C26_1_0.eot?#iefix') format('embedded-opentype'),url('../fonts/gibson-webfonts/328C26_1_0.woff2') format('woff2'),url('../fonts/gibson-webfonts/328C26_1_0.woff') format('woff'),url('../fonts/gibson-webfonts/328C26_1_0.ttf') format('truetype'),url('../fonts/gibson-webfonts/328C26_1_0.svg#wf') format('svg');}
+@font-face {font-family: 'Gibson-SemiboldIt';src: url('/fonts/gibson-webfonts/328C26_1_0.eot');src: url('/fonts/gibson-webfonts/328C26_1_0.eot?#iefix') format('embedded-opentype'),url('/fonts/gibson-webfonts/328C26_1_0.woff2') format('woff2'),url('/fonts/gibson-webfonts/328C26_1_0.woff') format('woff'),url('/fonts/gibson-webfonts/328C26_1_0.ttf') format('truetype'),url('/fonts/gibson-webfonts/328C26_1_0.svg#wf') format('svg');}
  
   
-@font-face {font-family: 'Gibson-Bold';src: url('../fonts/gibson-webfonts/328C26_2_0.eot');src: url('../fonts/gibson-webfonts/328C26_2_0.eot?#iefix') format('embedded-opentype'),url('../fonts/gibson-webfonts/328C26_2_0.woff2') format('woff2'),url('../fonts/gibson-webfonts/328C26_2_0.woff') format('woff'),url('../fonts/gibson-webfonts/328C26_2_0.ttf') format('truetype'),url('../fonts/gibson-webfonts/328C26_2_0.svg#wf') format('svg');}
+@font-face {font-family: 'Gibson-Bold';src: url('/fonts/gibson-webfonts/328C26_2_0.eot');src: url('/fonts/gibson-webfonts/328C26_2_0.eot?#iefix') format('embedded-opentype'),url('/fonts/gibson-webfonts/328C26_2_0.woff2') format('woff2'),url('/fonts/gibson-webfonts/328C26_2_0.woff') format('woff'),url('/fonts/gibson-webfonts/328C26_2_0.ttf') format('truetype'),url('/fonts/gibson-webfonts/328C26_2_0.svg#wf') format('svg');}
  
   
-@font-face {font-family: 'Gibson-Regular';src: url('../fonts/gibson-webfonts/328C26_3_0.eot');src: url('../fonts/gibson-webfonts/328C26_3_0.eot?#iefix') format('embedded-opentype'),url('../fonts/gibson-webfonts/328C26_3_0.woff2') format('woff2'),url('../fonts/gibson-webfonts/328C26_3_0.woff') format('woff'),url('../fonts/gibson-webfonts/328C26_3_0.ttf') format('truetype'),url('../fonts/gibson-webfonts/328C26_3_0.svg#wf') format('svg');}
+@font-face {font-family: 'Gibson-Regular';src: url('/fonts/gibson-webfonts/328C26_3_0.eot');src: url('/fonts/gibson-webfonts/328C26_3_0.eot?#iefix') format('embedded-opentype'),url('/fonts/gibson-webfonts/328C26_3_0.woff2') format('woff2'),url('/fonts/gibson-webfonts/328C26_3_0.woff') format('woff'),url('/fonts/gibson-webfonts/328C26_3_0.ttf') format('truetype'),url('/fonts/gibson-webfonts/328C26_3_0.svg#wf') format('svg');}
  
   
-@font-face {font-family: 'Gibson-SemiBold';src: url('../fonts/gibson-webfonts/328C26_4_0.eot');src: url('../fonts/gibson-webfonts/328C26_4_0.eot?#iefix') format('embedded-opentype'),url('../fonts/gibson-webfonts/328C26_4_0.woff2') format('woff2'),url('../fonts/gibson-webfonts/328C26_4_0.woff') format('woff'),url('../fonts/gibson-webfonts/328C26_4_0.ttf') format('truetype'),url('../fonts/gibson-webfonts/328C26_4_0.svg#wf') format('svg');}
+@font-face {font-family: 'Gibson-SemiBold';src: url('/fonts/gibson-webfonts/328C26_4_0.eot');src: url('/fonts/gibson-webfonts/328C26_4_0.eot?#iefix') format('embedded-opentype'),url('/fonts/gibson-webfonts/328C26_4_0.woff2') format('woff2'),url('/fonts/gibson-webfonts/328C26_4_0.woff') format('woff'),url('/fonts/gibson-webfonts/328C26_4_0.ttf') format('truetype'),url('/fonts/gibson-webfonts/328C26_4_0.svg#wf') format('svg');}
  
   
-@font-face {font-family: 'Gibson-Italic';src: url('../fonts/gibson-webfonts/328C26_5_0.eot');src: url('../fonts/gibson-webfonts/328C26_5_0.eot?#iefix') format('embedded-opentype'),url('../fonts/gibson-webfonts/328C26_5_0.woff2') format('woff2'),url('../fonts/gibson-webfonts/328C26_5_0.woff') format('woff'),url('../fonts/gibson-webfonts/328C26_5_0.ttf') format('truetype'),url('../fonts/gibson-webfonts/328C26_5_0.svg#wf') format('svg');}
+@font-face {font-family: 'Gibson-Italic';src: url('/fonts/gibson-webfonts/328C26_5_0.eot');src: url('/fonts/gibson-webfonts/328C26_5_0.eot?#iefix') format('embedded-opentype'),url('/fonts/gibson-webfonts/328C26_5_0.woff2') format('woff2'),url('/fonts/gibson-webfonts/328C26_5_0.woff') format('woff'),url('/fonts/gibson-webfonts/328C26_5_0.ttf') format('truetype'),url('/fonts/gibson-webfonts/328C26_5_0.svg#wf') format('svg');}
  
