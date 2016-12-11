@@ -30,28 +30,33 @@
             <div class="col-md-2 col-sm-2 col-xs-1">
             </div>
             <div class="col-md-8 col-sm-8 col-xs-10 main-welcome off-white-bg">
-                <div class="row main-text-row">
-                    <div class="main-text">
-                        <h1 class="main-text-header">Totem is coming soon!</h1>
-                        <p class="main-text-body">Pop your email in the box below and be among the first to know when it's ready!</p>
-                    </div>
-                </div>
-                <div class="row main-button-row">
-                    <div class="col-md-2 col-sm-1 col-xs-1">
-                    </div>
-                    <div class="col-md-5 col-sm-6 col-xs-6">
-                        <div class="email-input">
-                            <input type="text" placeholder="Your email address" />
+                <form method="POST" action="post.php" id="submit-email-form">
+                    <div class="row main-text-row">
+                        <div class="main-text">
+                            <h1 class="main-text-header">Totem is coming soon!</h1>
+                            <p class="main-text-body">Pop your email in the box below and be among the first to know when it's ready!</p>
                         </div>
                     </div>
-                    <div class="col-md-3 col-sm-4 col-xs-4">
-                        <div class="join-button">
-                            <a href="thanks.html">&emsp;JOIN THE TRIBE&emsp;</a>
+                    <div class="row main-button-row">
+                        <div class="col-md-2 col-sm-1 col-xs-1">
+                        </div>
+                        <div class="col-md-5 col-sm-6 col-xs-6">
+                            <div class="email-input">
+                                <input type="email" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Your email address" required>
+                                <div class="hidden" aria-hidden="true">
+                                    <input type="text" name="b_ec2a93d48453b2d0fa7c271a9_96a837f848" tabindex="-1" value="" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-4 col-xs-4">
+                            <div class="join-button">
+                                <a href="#" onclick="document.getElementById('submit-email-form').submit();">&emsp;JOIN THE TRIBE&emsp;</a>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-sm-1 col-xs-1">
                         </div>
                     </div>
-                    <div class="col-md-2 col-sm-1 col-xs-1">
-                    </div>
-                </div>
+                </form>
             </div>
             <div class="col-md-2 col-sm-2 col-xs-1">
             </div>
