@@ -67,7 +67,7 @@ body {
 }
 
 .main-text-row {
-    margin-bottom: 55px;
+    margin-bottom: 40px;
 }
 
 .main-button-row { 
@@ -76,12 +76,14 @@ body {
 
 .main-text-header {
     font-size: 50px;
-    margin-bottom: 13px;
+    margin-bottom: 7px;
+    color: #211F26;
 }
 
 .main-text-body {
     font-family: 'Bitter', serif;
     font-size: 18px;
+    color: #211F26;
 }
 
 .main-button {
@@ -94,16 +96,16 @@ body {
 .main-button-text a {
     width: 100%;
     text-decoration: none;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Gibson', sans-serif;
     color: #211f26;
-    font-weight: bold;
+    font-weight: 500;
     line-height: 45px;
 }
 
 .email-input input {
     width: 100%;
-    height: 40px;
-    padding: 0 15px;
+    height: 50px;
+    padding: 19px;
     border: 2.5px solid #211f26;
     border-radius: 1px;
     font-family: 'Bitter', serif;
@@ -111,15 +113,17 @@ body {
 }
 
 .join-button {
+    height: 50px;
     background-color: #211f26;
     line-height: 40px;
     border-radius: 1px;
+    padding-top: 5px;
 }
 
 .join-button a {
     text-decoration: none;
-    font-family: 'Roboto', sans-serif;
-    font-weight: bold;
+    font-family: 'Gibson', sans-serif;
+    font-weight: 500;
     color: white;
     letter-spacing: 1.5px;
 }
