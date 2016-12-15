@@ -3,6 +3,15 @@ html, body {
     margin: 0;
 }
 
+/*Custom selection color just to make everything a bit fancier*/
+
+::selection {
+  background: #FBE9A2;
+}
+::-moz-selection {
+  background: #FBE9A2;
+}
+
 body {
     font-family: 'Gibson-SemiBold';
     text-align: center;
