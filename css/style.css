@@ -127,6 +127,12 @@ body {
     line-height: 40px;
     border-radius: 1px;
     padding-top: 5px;
+    -webkit-transition: background-color 1s;
+    transition: background-color 1s;
+}
+
+.join-button:hover {
+    background-color: lightgray;
 }
 
 .join-button a {
@@ -135,6 +141,7 @@ body {
     font-weight: 500;
     color: white;
     letter-spacing: 1.5px;
+    padding: 18px 30px;
 }
 
 .footer-row {
