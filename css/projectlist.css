@@ -1,0 +1,68 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    font-family: 'Gibson-SemiBold';
+    text-align: center;
+    min-height: 500px;
+    background-image: url("../images/p2.svg");
+    background-repeat: repeat;
+    background-position: 5px 0;
+}
+
+.title-row {
+    margin-top: 30px;
+}
+
+.off-white-bg { 
+    background-color: #f9f9f9;
+}
+
+.totem-pole-logo-bg {
+    width: 50px;
+    margin: auto;
+}
+
+.totem-pole-logo {
+    width: 30px;
+    height: 120px;
+}
+
+.project-list-row {
+    margin-top: 50px;
+}
+
+.project-row {
+    margin-top: 15px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.project-left-section {
+    border-right: 1px solid black;
+    padding-right: 10px;
+}
+
+.project-title-section {
+    border-bottom: 1px solid black;
+}
+
+.project-mission-section {
+    text-align: left;
+    margin: 10px;
+}
+
+.project-right-section {
+}
+
+.project-tag-section {
+    margin-top: 15px;
+    text-align: right;
+}
+
+.footer-row {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
